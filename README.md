@@ -1,3 +1,7 @@
+👋 Hi, I’m Aktar
+I build beautiful, responsive, and functional web applications that connect ideas with real-world users 🌍. I enjoy turning complex challenges into simple, intuitive solutions 💡. My focus is on modern front-end technologies, performance optimization, and pixel-perfect design 🎨.
+
+When I’m not coding, I’m exploring new tools and improving my craft 🚀. Take a look at my projects — they reflect my passion for clean code, creativity, and continuous growth ✅.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aktar5436) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aktar.inf7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aktarbd/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amdaktar86@gmail.com) 
