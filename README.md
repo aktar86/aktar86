@@ -1,4 +1,5 @@
 👋 Hi, I’m Aktar
+
 I build beautiful, responsive, and functional web applications that connect ideas with real-world users 🌍. I enjoy turning complex challenges into simple, intuitive solutions 💡. My focus is on modern front-end technologies, performance optimization, and pixel-perfect design 🎨.
 
 When I’m not coding, I’m exploring new tools and improving my craft 🚀. Take a look at my projects — they reflect my passion for clean code, creativity, and continuous growth ✅.
