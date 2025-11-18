@@ -81,6 +81,7 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 ### GitHub Statistics:
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=aktar86&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> 
 <br/>
+<br/>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktar86&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> 
 
 
