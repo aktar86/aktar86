@@ -1,9 +1,11 @@
 <!-- Banner Image -->
-![Banner](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Welcome+To+My+GitHub+Profile)
+<div align="center">
+<img src="https://img.freepik.com/free-vector/stylish-glowing-digital-red-lines-banner_1017-23964.jpg?semt=ais_incoming&w=740&q=80" alt="" />
+</div>
 
 <!-- Name and Designation -->
 <div align="center">
-  <h1>MD Aktar Ahmed</h1>
+  <h1>Md Aktar Ahmed</h1>
   <h3>Frontend Developer | Graphic Designer</h3>
 </div>
 
@@ -16,8 +18,8 @@
 I'm a passionate Frontend Developer and Graphic Designer with expertise in creating modern, responsive web applications and captivating visual designs. I love turning complex problems into simple, beautiful designs and writing clean, efficient code.
 
 **Current Activities & Focus:**
-- 🔭 I’m currently working on a **Tourism Website** project
-- 🌱 I’m exploring **NEXT.JS** and advanced React patterns
+- 🔭 I’m currently working on a **Smart-Deals-Products** project
+- 🌱 I’m exploring **Express.JS** and MongoDB
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **React, JavaScript, UI/UX Design**
 - ⚡ Fun fact: I love minimalist design and coding challenges
@@ -49,19 +51,19 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/aktarbd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/aktarbd86" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/aktar86" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
+  <a href="https://facebook.com/aktar5436" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="amdaktar86@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
