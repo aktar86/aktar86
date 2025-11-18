@@ -73,16 +73,17 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
   </a>
 </p>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aktar86&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aktar86&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktar86&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<br/>
+
+
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=aktar86&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktar86&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
+
+### Repository Stats & Streak:
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktar86&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
+| ------------- | ------------- |
 
 
 <!-- Footer -->
