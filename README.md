@@ -4,12 +4,13 @@
 </div>
 
 <!-- Name and Designation -->
-<div align="center">
+<div align="left">
   <h1>Md Aktar Ahmed</h1>
   <h3>Frontend Developer | Graphic Designer</h3>
 </div>
 
-
+<br/>
+<br/>
 
 
 <!-- About Me Section -->
