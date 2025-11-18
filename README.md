@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-<img src="https://img.freepik.com/free-vector/stylish-glowing-digital-red-lines-banner_1017-23964.jpg?semt=ais_incoming&w=740&q=80" alt="" />
+<img src="/bannar/Gittu-Banner-01.png?semt=ais_incoming&w=740&q=80" alt="" />
 </div>
 
 <!-- Name and Designation -->
@@ -79,48 +79,8 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktar86&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- Pinned Repositories -->
-## 📌 Pinned Repositories
-
-### 🏨 Tourism Website
-**A comprehensive tourism platform with booking system and travel guides**
-
-[![View Project](https://img.shields.io/badge/🚀_Live_Demo-View_Project-green?style=for-the-badge)](https://your-tourism-site.netlify.app)
-[![GitHub](https://img.shields.io/badge/📁_Code-Repository-blue?style=for-the-badge)](https://github.com/yourusername/tourism-website)
-
-**Tech Stack:** `React` `Node.js` `MongoDB` `Express` `Tailwind CSS`
-
----
-
-### 🛒 E-Commerce Platform
-**Full-stack e-commerce solution with payment integration**
-
-[![View Project](https://img.shields.io/badge/🚀_Live_Demo-View_Project-green?style=for-the-badge)](https://your-ecommerce-site.netlify.app)
-[![GitHub](https://img.shields.io/badge/📁_Code-Repository-blue?style=for-the-badge)](https://github.com/yourusername/ecommerce-platform)
-
-**Tech Stack:** `Next.js` `Firebase` `Stripe` `Context API` `CSS Modules`
-
----
-
-### 📱 Task Management App
-**Productive task management application with real-time updates**
-
-[![View Project](https://img.shields.io/badge/🚀_Live_Demo-View_Project-green?style=for-the-badge)](https://your-task-app.netlify.app)
-[![GitHub](https://img.shields.io/badge/📁_Code-Repository-blue?style=for-the-badge)](https://github.com/yourusername/task-manager)
-
-**Tech Stack:** `React` `Firebase` `Material-UI` `Axios` `JavaScript`
-
----
-
-### 🎨 Design Portfolio
-**Creative portfolio showcasing graphic design projects**
-
-[![View Project](https://img.shields.io/badge/🚀_Live_Demo-View_Project-green?style=for-the-badge)](https://your-design-portfolio.netlify.app)
-[![GitHub](https://img.shields.io/badge/📁_Code-Repository-blue?style=for-the-badge)](https://github.com/yourusername/design-portfolio)
-
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `GSAP` `Sass`
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aktarbd86&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
