@@ -6,7 +6,7 @@
 <!-- Name and Designation -->
 <div align="left">
   <h1>Md Aktar Ahmed</h1>
-  <h3>Frontend Developer | Graphic Designer</h3>
+  <h3>Full-Stack Developer (MERN) | Graphic Designer</h3>
 </div>
 
 <br/>
@@ -20,7 +20,7 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 
 **Current Activities & Focus:**
 - 🔭 I’m currently working on a **Smart-Deals-Products** project
-- 🌱 I’m exploring **Express.JS** and MongoDB
+- 🌱 I’m exploring **Next.js**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **React, JavaScript, UI/UX Design**
 - ⚡ Fun fact: I love minimalist design and coding challenges
