@@ -25,7 +25,8 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 - 💬 Ask me about **React, JavaScript, UI/UX Design**
 - ⚡ Fun fact: I love minimalist design and coding challenges
 
-<!-- Skills Section with Icons -->
+<div align="center">
+  <!-- Skills Section with Icons -->
 ## 💻 Tech Stack
 
 ### Frontend
@@ -73,6 +74,7 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+</div>
 
 
 <br/>
