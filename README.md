@@ -79,10 +79,16 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 
 
 ### GitHub Statistics:
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=aktar86&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> 
-<br/>
-<br/>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktar86&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aktar86&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aktar86&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aktar86&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aktar86&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ### Repository Stats & Streak:
