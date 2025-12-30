@@ -102,7 +102,7 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 
 
 ### Repository Stats & Streak:
-<a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktar86&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> 
+<a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktar86&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" width="100%" /></a> 
 
 
 
@@ -112,37 +112,6 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 
 
 <!-- Footer -->
-<p align="center">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktar86&label=Profile%20views&color=0e75b6&style=flat" alt="aktar86" /> </p>
-</p>
-
-
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aktar86&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktar86&layout=compact&theme=tokyonight" alt="Top Langs" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aktar86&theme=tokyonight" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aktar86&theme=tokyo-night" width="100%" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/aktarbd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/aktar86"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:amdaktar86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://facebook.com/aktar5436"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aktar86&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
