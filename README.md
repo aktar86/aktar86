@@ -102,7 +102,9 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 
 
 ### Repository Stats & Streak:
-<a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktar86&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" width="50%" /></a> 
+<div align="center">
+  <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktar86&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" width="50%" /></a> 
+</div>
 
 
 
