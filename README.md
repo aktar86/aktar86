@@ -108,5 +108,5 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aktarbd86&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktar86&label=Profile%20views&color=0e75b6&style=flat" alt="aktar86" /> </p>
 </p>
