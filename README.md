@@ -9,6 +9,11 @@
   <h3>Full-Stack Developer (MERN) | Graphic Designer</h3>
 </div>
 
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creative+Graphic+Designer;MERN+Stack+Expert;Problem+Solver" alt="Typing SVG" />
+
 <br/>
 <br/>
 
