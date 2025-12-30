@@ -103,6 +103,15 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktar86&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> 
 
 
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aktar86&show_icons=true&locale=en&layout=compact" alt="aktar86" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aktar86&show_icons=true&locale=en" alt="aktar86" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aktar86&" alt="aktar86" /></p>
+</div>
+
+
 <!-- Footer -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aktarbd86&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
