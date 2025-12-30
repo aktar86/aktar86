@@ -112,3 +112,91 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 <p align="center">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aktar86&label=Profile%20views&color=0e75b6&style=flat" alt="aktar86" /> </p>
 </p>
+
+
+
+<div align="center">
+  <img src="/bannar/Gittu-Banner-01.png?semt=ais_incoming&w=740&q=80" width="100%" alt="Banner" />
+  
+  <br/>
+  
+  <h1>Hi 👋, I'm Md Aktar Ahmed</h1>
+  <h3>MERN Stack Developer | UI/UX & Graphic Designer</h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creative+Graphic+Designer;MERN+Stack+Expert;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+I'm a passionate **Frontend Developer** and **Graphic Designer** with expertise in creating modern, responsive web applications and captivating visual designs. I love turning complex problems into simple, beautiful designs and writing clean, efficient code.
+
+* 🔭 I’m currently working on: **Smart-Deals-Products**
+* 🌱 I’m deeply exploring: **Next.js & Server Components**
+* 👯 I’m looking to collaborate on: **Open Source Projects**
+* 💬 Ask me about: **React, JavaScript, UI/UX Design**
+* ⚡ Fun fact: I believe minimalist design is the ultimate sophistication.
+
+---
+
+## 💻 Tech Stack
+
+<details open>
+<summary><b>Frontend & Design Tools</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend & Database</b></summary>
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aktar86&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktar86&layout=compact&theme=tokyonight" alt="Top Langs" />
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aktar86&theme=tokyonight" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aktar86&theme=tokyo-night" width="100%" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aktarbd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/aktar86"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:amdaktar86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://facebook.com/aktar5436"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aktar86&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <br/>
+  <sub>Built with ❤️ by Aktar Ahmed</sub>
+</div>
