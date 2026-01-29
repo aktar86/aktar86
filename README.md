@@ -26,7 +26,7 @@
 I'm a passionate Frontend Developer and Graphic Designer with expertise in creating modern, responsive web applications and captivating visual designs. I love turning complex problems into simple, beautiful designs and writing clean, efficient code.
 
 **Current Activities & Focus:**
-- 🔭 I’m currently working on a **Smart-Deals-Products** project
+- 🔭 I’m currently working on a **NextGen-Learning-App** project
 - 🌱 I’m exploring **Next.js**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **React, JavaScript, UI/UX Design**
