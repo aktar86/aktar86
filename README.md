@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-<img src="/bannar/Gittu-Banner-01.png?semt=ais_incoming&w=740&q=80" alt="" />
+<img src="/bannar/gittubanner.png?semt=ais_incoming&w=740&q=80" alt="" />
 </div>
 
 <!-- Name and Designation -->
@@ -11,32 +11,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creative+Graphic+Designer;MERN+Stack+Expert;Problem+Solver" alt="Typing SVG" />
 </div>
 
-
-
-
-
-
 <br/>
 <br/>
-
 
 <!-- About Me Section -->
+
 ## 🚀 About Me
 
 I'm a passionate Frontend Developer and Graphic Designer with expertise in creating modern, responsive web applications and captivating visual designs. I love turning complex problems into simple, beautiful designs and writing clean, efficient code.
 
 **Current Activities & Focus:**
+
 - 🔭 I’m currently working on a **NextGen-Learning-App** project
 - 🌱 I’m exploring **Next.js**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **React, JavaScript, UI/UX Design**
 - ⚡ Fun fact: I love minimalist design and coding challenges
 
-
   <!-- Skills Section with Icons -->
+
 ## 💻 Tech Stack
 
 ### Frontend
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -46,8 +43,8 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
   <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
-
 ### Backend
+
 <p align="left">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -56,12 +53,14 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 </p>
 
 ### Design Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
 </p>
 
 <!-- Social Links -->
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -82,10 +81,7 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
   </a>
 </p>
 
-
-
 <br/>
-
 
 ### GitHub Statistics:
 
@@ -101,8 +97,8 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
 
 </div>
 
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=aktar86&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -117,12 +113,7 @@ I'm a passionate Frontend Developer and Graphic Designer with expertise in creat
   <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=aktar86&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" width="70%" height="10%" /></a> 
 </div>
 
-
-
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aktar86&theme=tokyo-night" width="100%" />
-
-
-
 
 <!-- Footer -->
 
